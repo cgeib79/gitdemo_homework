@@ -1,2 +1,10 @@
 <b>this is bold text</b>
-<a href="https://www.youtube.com/">link text</a>
+<a href="https://www.youtube.com/" target="_blank">link text</a>
+<p>
+<b>favorite dogs</b>
+</p>
+<ol>
+<li>whest highland</li>
+<li>border terrier</li>
+<li>border collie</li>
+</ol>

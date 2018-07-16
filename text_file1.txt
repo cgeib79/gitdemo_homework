@@ -1,2 +1,8 @@
 <h1>this is headline text</h2>
 <p style="font-size:30px;">This is inline HTML style</p>
+<b>Favorite foods</b>
+<ul>
+<li>nutella</li>
+<li>cheesecake</li>
+<li>pancakes</li>
+</ul>
